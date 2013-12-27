@@ -10,5 +10,9 @@
  {
    "repository": "android_device_lge_gproj-common",
    "target_path": "device/lge/gproj-common"
+ },
+ {
+   "repository": "android_vendor_lge_e975",
+   "target_path": "vendor/lge/e975"
  }
 ]
