@@ -10,9 +10,5 @@
  {
    "repository": "android_device_lge_gproj-common",
    "target_path": "device/lge/gproj-common"
- },
- {
-   "repository": "android_vendor_lge_e970",
-   "target_path": "vendor/lge/e970"
  }
 ]
