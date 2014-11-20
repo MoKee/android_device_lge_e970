@@ -14,5 +14,9 @@
  {
    "repository": "android_vendor_lge_e970",
    "target_path": "vendor/lge/e970"
+ },
+ {
+   "repository": "android_vendor_lge_e975",
+   "target_path": "vendor/lge/e975"
  }
 ]
